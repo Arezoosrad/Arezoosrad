@@ -61,7 +61,6 @@ class Arezoo:
 ## $ git stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Arezoosrad&show_icons=true&hide_border=true&bg_color=080510&title_color=C4B5FD&text_color=E9D5FF&icon_color=A78BFA&ring_color=8B5CF6&include_all_commits=true" alt="GitHub profile statistics"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arezoosrad&layout=compact&hide_border=true&bg_color=080510&title_color=C4B5FD&text_color=E9D5FF&langs_count=8" alt="Most used programming languages"/>
 </div>
 
